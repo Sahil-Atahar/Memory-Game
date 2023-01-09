@@ -111,20 +111,46 @@
     
 
     #header {
-            width: 90vw;
-            height: 70px;
-        }
+        width: 90vw;
+        height: 70px;
+        font-size: 1.3em;
+    }
     
-        .game,#dialog-box {
-            width: 90%;
-            height: 50vh;
-        }
+    h1 {
+        font-size: 2em;
+    }
     
-        #dialog-box img {
-            width: 100px;
-        }
-        
-        .front-card img {
-            height: 70%;
-        }
+    h2 {
+        font-size: 1em;
+        margin: 10px;
+    }
+    .game {
+        width: 90%;
+        height: 70%;
+    }
+    
+    #dialog-box {
+        width: 90%;
+        height: 50vh;
+    }
+    
+    #dialog-box img {
+        width: 100px;
+    }
+    
+    #dialog-box button {
+        font-size: 1.3em;
+    }
+  
+    .front-card {
+        font-size: 3em;
+    }
+    
+    .back-card {
+        font-size: 3em;
+    }
+    
+    .front-card img {
+        height: 70%;
+    }
 }
