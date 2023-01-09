@@ -106,3 +106,25 @@
 .front-card img {
     height: 100%;
 }
+
+@media screen and (max-width : 480px) {
+    
+
+    #header {
+            width: 90vw;
+            height: 70px;
+        }
+    
+        .game,#dialog-box {
+            width: 90%;
+            height: 50vh;
+        }
+    
+        #dialog-box img {
+            width: 100px;
+        }
+        
+        .front-card img {
+            height: 70%;
+        }
+}
