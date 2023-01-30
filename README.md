@@ -1,7 +1,7 @@
 # Memory-Game using HTML ,CSS ,JavaScript
 
 ## Just Go and Play :
-## https://sahil-atahar.github.io/Memory-Game.github.io/
+## https://sahil-atahar.github.io/Memory-Game/
 
 ## 📷 Video Preview 
 
